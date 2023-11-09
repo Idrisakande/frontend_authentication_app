@@ -75,7 +75,7 @@ export const Username = () => {
               fontWeight={600}
               className="w-2/3 text-gray-400"
             >
-              Explore by connecting with us
+              Explore more by connecting with us
             </Typography>
           </div>
           <motion.img
